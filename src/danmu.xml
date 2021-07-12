@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <i>
-<chatserver>chat.bilibili.com</chatserver>
+<chatserver></chatserver>
 <chatid>58185946</chatid>
 <mission>0</mission>
 <maxlimit>100</maxlimit>
